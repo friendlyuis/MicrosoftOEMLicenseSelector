@@ -45,7 +45,6 @@ class App extends React.Component {
       }
     }
     this.setState({
-      selectedOption: selectedOption,
       toView: toView
     });
   };
