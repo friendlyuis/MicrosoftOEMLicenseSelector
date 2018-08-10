@@ -1,2 +1,0 @@
-# MicrosoftOEMLicenseSelector
-Created with CodeSandbox
